@@ -19,6 +19,8 @@ public class Main {
 
         System.out.println("Kalan Yıl " + kalan + " 100");
 
+        System.out.println("Deneme ve Öğrenme");
+
 
     }
 }
