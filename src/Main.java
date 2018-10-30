@@ -21,6 +21,8 @@ public class Main {
 
         System.out.println("Deneme ve Öğrenme");
 
+        System.out.println("Süper GitHub Desktop Çalıştı");
+
 
     }
 }
