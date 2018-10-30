@@ -16,5 +16,7 @@ public class Main {
 
         System.out.println("Git Hub İkinci Paylaşım");
 
+        System.out.println("Bu ikinci ders");
+
     }
 }
